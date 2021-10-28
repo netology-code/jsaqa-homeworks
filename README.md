@@ -10,7 +10,7 @@
 
 [7.1 - Использование JS в браузере. Тестирование, дебаггинг](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-01.md)
 
-[7.2 - Знакомство с платформой Node.js]()
+[7.2 - Знакомство с платформой Node.js](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-02.md)
 
 [7.3 - Jest. Playwright]()
 
