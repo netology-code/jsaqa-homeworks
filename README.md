@@ -12,7 +12,7 @@
 
 [7.2 - Знакомство с платформой Node.js]()
 
-[7.3 - Jest.Playwright]()
+[7.3 - Jest. Playwright]()
 
 [7.4 - Puppeteer (часть 1)]()
 
