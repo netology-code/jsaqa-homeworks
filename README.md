@@ -12,7 +12,7 @@
 
 [7.2 - Знакомство с платформой Node.js ](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-02.md)
 
-[7.3 - Jest. Playwright]()
+[7.3 - Jest. Playwright](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-03.md)
 
 [7.4 - Puppeteer (часть 1)]()
 
