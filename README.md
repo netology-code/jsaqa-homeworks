@@ -14,7 +14,7 @@
 
 [7.3 - Jest. Playwright](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-03.md)
 
-[7.4 - Puppeteer (часть 1)]()
+[7.4 - Puppeteer (часть 1)](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-04.md)
 
 [7.5 - Puppeteer (часть 2)]()
 
