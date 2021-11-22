@@ -18,8 +18,8 @@
 
 [7.5 - Puppeteer (часть 2)](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-05.md)
 
-[7.6 - Cypress (часть 1)]()
+[7.6 - Cypress (часть 1)](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-06.md)
 
-[7.7 - Cypress (часть 2)]()
+[7.7 - Cypress (часть 2)](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-07.md)
 
 [7.8 - CI/СD](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-08.md)
