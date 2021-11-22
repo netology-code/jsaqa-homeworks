@@ -22,4 +22,4 @@
 
 [7.7 - Cypress (часть 2)]()
 
-[7.8 - CI/СD]()
+[7.8 - CI/СD](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-08.md)
