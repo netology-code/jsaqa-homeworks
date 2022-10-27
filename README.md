@@ -8,7 +8,7 @@
 
 Любые вопросы по решению задач задавайте в чате учебной группы. Ссылку на него вы найдёте в письме на вашей электронной почте.
 
-[7.1. Использование JS в браузере. Тестирование, дебаггинг](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-01.md).
+[7.1. Использование JS в браузере. Тестирование, дебагинг](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-01.md).
 
 [7.2. Знакомство с платформой Node.js ](https://github.com/netology-code/jsaqa-homeworks/blob/main/7-02.md).
 
